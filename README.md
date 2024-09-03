@@ -54,8 +54,6 @@ To identify fraudulent transactions in a financial dataset using outlier detecti
 - **Transaction Types:** Bar plots showing the distribution of transaction types and their association with fraud.
 
 
-
-# Fraud-Detection on Financial Data
 This is a sample of 1 row with headers explanation:
 
 1,PAYMENT,1060.31,C429214117,1089.0,28.69,M1591654462,0.0,0.0,0,0
